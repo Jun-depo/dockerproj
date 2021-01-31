@@ -6,7 +6,7 @@
 
 # Step 1:
 # Create your on docker ID here
-#dockerpath=""
+dockerpath="./"
 
 # Step 2:  
 # Authenticate & Tag
